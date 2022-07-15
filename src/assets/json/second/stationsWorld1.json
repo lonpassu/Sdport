@@ -1,0 +1,41 @@
+[
+  { "name": "黄岛港站", "location": [120.204859,36.019426], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "胶州中心站", "location": [119.972449,36.310622], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "潍坊站", "location": [119.052797,36.713251], "buildState": 2, "type": 2 ,"size":30},
+  { "name": "济南", "location": [117.126399,36.656554], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "石家庄站", "location": [114.5215290000,38.0483120000], "buildState": 2, "type": 2 ,"size":30},
+  { "name": "娘子关站", "location": [113.8911490000,37.9734740000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "银川站", "location": [106.2384960000,38.4924620000], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "中宁站", "location": [105.6915370000,37.4974210000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "嘉峪关站", "location": [98.2962000000,39.7779610000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "哈密东站", "location": [93.5212160000,42.8258240000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "乌鲁木齐西站", "location": [87.6244400000,43.8307630000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "阿拉山口站", "location": [82.573443,45.170625], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "十月城", "location": [48.7712000000,53.1801000000], "buildState": 2, "type":3 ,"size":30},
+  { "name": "汉堡", "location": [10.07643,53.65181], "buildState": 2, "type":3 ,"size":60},
+  { "name": "霍尔果斯站", "location": [81.456966,43.156308], "buildState": 2, "type":3 ,"size":60},
+  { "name": "阿拉木图", "location": [76.8859690000,43.2431160000], "buildState": 2, "type":3 ,"size":30},
+  { "name": "塔什干", "location": [69.3063800000,41.3207500000], "buildState": 2, "type":3 ,"size":60},
+    
+  { "name": "德州站", "location": [116.2949300000,37.4555160000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "衡水站", "location": [115.6982010000,37.7501360000], "buildState": 2, "type": 3 ,"size":30},
+
+
+  { "name": "张家口站", "location": [114.8891720000,40.7576570000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "郭尔贲敖包站", "location": [112.1600940000,42.5252580000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "二连浩特站", "location": [111.9583670000,43.6488000000], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "新西伯利亚", "location": [82.9583670000,55.2488000000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "叶卡捷琳堡", "location": [60.583670000,56.5488000000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "莫斯科", "location": [37.3688000000,55.4583670000], "buildState": 2, "type": 3 ,"size":60},
+
+  { "name": "天津站", "location": [117.3164425868,39.7232197628], "buildState": 2, "type": 3 ,"size":30},
+
+  { "name": "秦皇岛站", "location": [119.6061795355,39.9411828741], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "山海关站", "location": [119.7740082597,40.0064871472], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "塔山站", "location": [120.4544170000,40.4700400000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "锦州站", "location": [121.1325990000,41.1009330000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "通辽站", "location": [122.2505230000,43.6579800000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "成吉思汗站", "location": [122.8524500000,47.7616320000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "博客图站", "location": [121.9223550000,48.7599860000], "buildState": 2, "type": 3 ,"size":30},
+  { "name": "满洲里站", "location": [117.3854350000,49.6040980000], "buildState": 2, "type": 3 ,"size":60}
+]

@@ -1,0 +1,26 @@
+[
+  { "name": "黄岛", "location": [120.204859,36.019426], "buildState": 2, "type": 1 ,"size":60},
+  { "name": "胶州", "location": [119.972449,36.310622], "buildState": 2, "type": 1 ,"size":60},
+  { "name": "潍坊西", "location": [119.052797,36.713251], "buildState": 2, "type": 1 ,"size":10},
+  { "name": "农中", "location": [118.127795,36.883102], "buildState": 2, "type": 1 ,"size":60},
+
+  { "name": "黄岛", "location": [120.204859,36.019426], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "胶州", "location": [119.972449,36.310622], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "临沂", "location": [118.363537,35.110672], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "徐州", "location": [117.290574,34.212666], "buildState": 2, "type": 2 ,"size":10},
+  { "name": "莆田", "location": [113.830256,34.759016], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "郑州", "location": [113.631416,34.753440], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "洛阳", "location": [112.459424,34.624264], "buildState": 2, "type": 2 ,"size":60},
+  { "name": "新筑", "location": [109.049330,34.388897], "buildState": 2, "type": 2 ,"size":60},
+  
+  
+  { "name": "黄岛", "location": [120.204859,36.019426], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "胶州", "location": [119.972449,36.310622], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "潍坊", "location": [119.052797,36.713251], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "济南", "location": [116.598839,35.391034], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "衡水", "location": [115.698201,37.750136], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "张家口", "location": [114.8891720000,40.7576570000], "buildState": 2, "type": 3 ,"size":10},
+  { "name": "郭尔贲敖包", "location": [112.1600940000,42.5252580000], "buildState": 2, "type": 3 ,"size":60},
+  { "name": "二连浩特", "location": [111.9583670000,43.6488000000], "buildState": 2, "type": 3 ,"size":60}
+
+]

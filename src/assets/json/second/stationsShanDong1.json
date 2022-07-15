@@ -1,0 +1,6 @@
+[
+  { "name": "黄岛港站", "location": [120.204859,36.019426], "buildState": 2, "type": 1 ,"size":60},
+  { "name": "胶州中心站", "location": [119.972449,36.310622], "buildState": 2, "type": 1 ,"size":60},
+  { "name": "潍坊西站", "location": [119.052797,36.713251], "buildState": 2, "type": 1 ,"size":60},
+  { "name": "农中站", "location": [118.127795,36.883102], "buildState": 2, "type": 1 ,"size":60}
+]
